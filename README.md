@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 InsightQL
+# 🔍 Query_mate
 
 ### _Chat with Your Database in Natural Language_
 
@@ -20,7 +20,7 @@ _Transform the way you interact with databases using the power of AI and natural
 
 **Query_mate** is a revolutionary database interaction platform that bridges the gap between human language and SQL databases. Using advanced AI models and LangChain SQL Agents, it enables users to query, analyze, and manipulate databases through natural language conversations.
 
-Whether you're a data analyst, developer, or business user, InsightQL makes database operations accessible to everyone - no SQL expertise required!
+Whether you're a data analyst, developer, or business user, Query_mate makes database operations accessible to everyone - no SQL expertise required!
 
 ## ✨ Key Features
 
@@ -122,8 +122,8 @@ graph TB
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/InsightQL.git
-cd InsightQL
+git clone https://github.com/yourusername/Query_mate.git
+cd Query_mate
 ```
 
 ### 2. Environment Setup
@@ -265,7 +265,7 @@ npm run seed  # Loads sample data
 ### Project Structure
 
 ```
-InsightQL/
+Query_mate/
 ├── client/                 # Next.js frontend application
 │   ├── src/
 │   │   ├── app/           # App router pages
@@ -367,19 +367,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 - **NestJS** community for the robust backend framework
 - All contributors who help make this project better
 
-## 📞 Support & Community
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/InsightQL/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/InsightQL/discussions)
-- 📧 **Email**: support@insightql.com
-- 🐦 **Twitter**: [@InsightQL](https://twitter.com/InsightQL)
 
 ---
 
 <div align="center">
 
-**⭐ If you find InsightQL helpful, please consider giving it a star on GitHub! ⭐**
+**⭐ If you find Query_mate helpful, please consider giving it a star on GitHub! ⭐**
 
-Made with ❤️ by the InsightQL Team
+Made with ❤️ by the Query_mate Team
 
 </div>
