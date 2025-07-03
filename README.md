@@ -18,7 +18,7 @@ _Transform the way you interact with databases using the power of AI and natural
 
 ## 🌟 Overview
 
-**InsightQL** is a revolutionary database interaction platform that bridges the gap between human language and SQL databases. Using advanced AI models and LangChain SQL Agents, it enables users to query, analyze, and manipulate databases through natural language conversations.
+**Query_mate** is a revolutionary database interaction platform that bridges the gap between human language and SQL databases. Using advanced AI models and LangChain SQL Agents, it enables users to query, analyze, and manipulate databases through natural language conversations.
 
 Whether you're a data analyst, developer, or business user, InsightQL makes database operations accessible to everyone - no SQL expertise required!
 
